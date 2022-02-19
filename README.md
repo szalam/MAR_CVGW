@@ -7,8 +7,8 @@ THE Codes IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
 
 * Author: Sarfaraz Alam (szalam@stanford.edu), Stanford Univ Dept of Geophysics 
 * Date: 2/2022
-* Note: The codes were written when the author was Graduate student in Civil & Environmental Engineering Department at UCLA 
 * Description: This repository contains the codes for pre-processing and post-processing C2VSIM model files and simulated outputs.
+* Additional info: The codes were written when the author was Graduate student in Civil & Environmental Engineering Department at UCLA 
 
 <img src="Post_processing/Figure_0/CV_loc.png" alt="drawing" width="500"> <br>
 Central Valley locations
